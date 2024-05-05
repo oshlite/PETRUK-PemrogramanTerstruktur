@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/MyBook Hype/Documents/Smt2/petrukVScode/20-3-2024",
-      "program": "c:/Users/MyBook Hype/Documents/Smt2/petrukVScode/20-3-2024/build/Debug/outDebug",
+      "cwd": "c:/Users/MyBook Hype/Documents/PETRUK-PemrogramanTerstruktur",
+      "program": "c:/Users/MyBook Hype/Documents/PETRUK-PemrogramanTerstruktur/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
